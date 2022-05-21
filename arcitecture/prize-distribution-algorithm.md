@@ -47,6 +47,14 @@ E.g: 0-2-4-5-8-1-2.
 A user can determine the value of a winning pick based on the tier of the match, the prize distribution, and the total prize. The prize distribution has an array of fractions that determine the prize portion allocated to each tier.
 
 For example
+| Tier | Percentage  | Number of winners | Prize per winner |
+| :--: | :---------: | :---------------: | :--------------: |
+|   0  |     20%     |         1         |      2000.0      |
+|   1  |     10%     |         3         |       333.3      |
+|   2  |     14%     |         9         |       155.6      |
+|   3  |     12%     |         27        |       44.4       |
+|   4  |     19%     |         81        |       23.5       |
+|   5  |     25%     |        243        |       10.2       |
 
 
 
