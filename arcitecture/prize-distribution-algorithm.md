@@ -19,9 +19,7 @@ The winning sequence and random sequence are 6 digits sequences by default. &#x2
 
 Let's see an example.
 
-<table><thead><tr><th align="center">index 0</th><th data-type="number">Index 1</th><th data-type="number">Index 2</th><th data-type="number">Index 3</th><th data-type="number">Index 4</th><th data-type="number">Index 5</th></tr></thead><tbody><tr><td align="center">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td align="center">1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th>index 0</th><th >Index 1</th><th >Index 2</th><th >Index 3</th><th >Index 4</th><th >Index 5</th></tr></thead><tbody><tr><td >1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td >1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></tbody></table>
 
-\
-\
 
 
