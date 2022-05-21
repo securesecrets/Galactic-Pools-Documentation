@@ -42,5 +42,15 @@ For each random sequence, 6 random numbers are generated. Within a range of 0 an
 
 E.g: 0-2-4-5-8-1-2.
 
+#### Calculating a prize
+
+A user can determine the value of a winning pick based on the tier of the match, the prize distribution, and the total prize. The prize distribution has an array of fractions that determine the prize portion allocated to each tier.
+
+For example
+
+
+
+
+
 
 
