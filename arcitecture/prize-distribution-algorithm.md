@@ -17,9 +17,22 @@ Each time a random sequence is generated, it's compared to the winning sequence.
 
 The winning sequence and random sequence are 6 digits sequences by default. &#x20;
 
-Let's see an example.
+Let's stack them up side-by-side.
 
-<table><thead><tr><th>index 0</th><th >Index 1</th><th >Index 2</th><th >Index 3</th><th >Index 4</th><th >Index 5</th></tr></thead><tbody><tr><td >1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td >1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr></tbody></table>
+| index 0 | index 1 | index 2 | index 3 | index 4 | index 5 | index 6 | index 7 |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1       | 2       | 3       | 4       | 5       | 6       | 7       | 8       |
+| 1       | 2       | 3       | f       | e       | 6       | 7       | 8       |
 
+The "tier" of the match is _the cardinality less the first N matching numbers_.
+
+In the above example the first three numbers match:
+
+| index 0 | index 1 | index 2 | index 3 | index 4 | index 5 | index 6 | index 7 |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **1**   | **2**   | **3**   | 4       | 5       | 6       | 7       | 8       |
+| **1**   | **2**   | **3**   | f       | e       | 6       | 7       | 8       |
+
+This means that the tier of match is 8 - 3, or five.
 
 
