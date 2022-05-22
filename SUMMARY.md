@@ -6,4 +6,4 @@
   * [Prize Distribution Algorithm](arcitecture/prize-distribution-algorithm.md)
   * [Time-Weighted Average Balance](arcitecture/time-weighted-average-balance.md)
   * [ROUGH IDEAS](arcitecture/rough-ideas/README.md)
-    * [Page 1](arcitecture/rough-ideas/page-1.md)
+    * [IDEA 1](arcitecture/rough-ideas/idea-1.md)
