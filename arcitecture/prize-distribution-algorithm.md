@@ -59,4 +59,4 @@ For example
 
 #### Claiming Prizes
 
-It is advised for users to claim their rewards as fast as possible. Since the algorithm works on a first-come, first-serve basis, once a particular prize is claimed, it cannot be claimed again. E.g., Let's say the winning sequence is 1-2-3-4-5-6, so User A can match the winning sequence and wins the Tier 0 prize. After some time, if User B can produce the same sequence, he won't be able to win Tier 0 prize, but he's eligible to win Tier 1 to Tier 5 prizes if all those prizes are not claimed yet.
+It is advised for users to claim their rewards as fast as possible. Since the algorithm works on a first-come, first-serve basis, once a particular prize is claimed, it cannot be claimed again. E.g., Let's say the winning sequence is 1-2-3-4-5-6, so User A can match the winning sequence and wins the Tier 0 prize. After some time, if User B produces the same sequence, he won't be able to win Tier 0 prize, but he's eligible to win Tier 1 to Tier 5 prizes if all those prizes are not claimed yet.
