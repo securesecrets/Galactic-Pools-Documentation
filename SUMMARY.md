@@ -4,3 +4,4 @@
 * [Arcitecture](arcitecture/README.md)
   * [Flow of Funds](arcitecture/flow-of-funds.md)
   * [Prize Distribution Algorithm](arcitecture/prize-distribution-algorithm.md)
+  * [Time-Weighted Average Balance](arcitecture/time-weighted-average-balance.md)

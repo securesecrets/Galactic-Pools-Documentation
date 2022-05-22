@@ -39,7 +39,7 @@ Each member gets one chance for every X amount of liquidity provided during the 
 
 For each random sequence, 6 random numbers are generated. Within a range of 0 and 9.
 
-E.g: 0-2-4-5-8-1.
+E.g: 0-2-4-5-8-1-2.
 
 #### Calculating a prize
 
