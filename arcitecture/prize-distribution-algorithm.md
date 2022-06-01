@@ -14,7 +14,7 @@ Prizes are distributed using weekly draws
 
 Each time a random sequence is generated, it's compared to the winning sequence. The sequence is broken down into an array of single numbers.
 
-The winning sequence and random sequence are 6 digits sequences by default.
+The winning sequence and random sequence are 6 number sequences by default.
 
 Let's stack them up side-by-side.
 
@@ -29,7 +29,7 @@ In the above example, the first three numbers match:
 
 As it can be said, the match's tier is 6-3 or three.
 
-The tier of the match is used to determine the prize ter of the winner. Tier 0 is the grand prize; Tier 1 is second place.
+The tier of the match is used to determine the prize ter of the winner. Tier 0 is the grand prize; Tier 1 is in second place.
 
 #### Total Random Generated sequences.
 
@@ -37,9 +37,13 @@ Each member gets one chance for every X amount of liquidity provided during the 
 
 #### Generating Random numbers.
 
-For each random sequence, 6 random numbers are generated. Within a range of 0 and 9.
+For each random sequence, six random numbers are generated. Within a range of 0 and 9.&#x20;
 
 E.g: 0-2-4-5-8-1.
+
+**But this range will increase as the number of users increase so that not all the users draw the same sequence. Theoretically this range could go to infinity.**
+
+In the future, it could look like 10-12-14-15-28-11.
 
 #### Calculating a prize
 
@@ -62,4 +66,4 @@ It is advised for users to claim their rewards as fast as possible. Since the al
 
 #### The limited sequence generated per user
 
-The user only gets to generate a limited number of random sequences. Since one random sequence can only be generated if one token worth of liquidity was provided during the week, this limit parameter can be updated according to the community's will. e.g., In the future, The user can generate 2 random sequences by providing one token worth of liquidity.&#x20;
+The user only gets to generate a limited number of random sequences. Since one random sequence can only be generated if one token worth of liquidity was provided during the week, this limit parameter can be updated according to the community's will. e.g., In the future, The user can generate two random sequences by providing one token worth of liquidity.&#x20;
