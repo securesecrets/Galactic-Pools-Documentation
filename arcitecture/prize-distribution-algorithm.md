@@ -41,7 +41,7 @@ For each random sequence, six random numbers are generated. Within a range of 0 
 
 E.g: 0-2-4-5-8-1.
 
-**But this range will increase as the number of users increase so that not all the users draw the same sequence. Theoretically this range could go to infinity.**
+**But this range will increase as the number of users increase so that not all the users draw the same sequence. Theoretically, this range could go to infinity**:infinity:.
 
 In the future, it could look like 10-12-14-15-28-11.
 
