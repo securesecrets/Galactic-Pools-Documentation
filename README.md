@@ -1,5 +1,5 @@
 ---
-description: A No-loss lottery is replacing boring saving accounts with the power of DeFi.
+description: Killing Boring saving accounts with the power of DeFi.
 ---
 
 # What is PoolParty?
